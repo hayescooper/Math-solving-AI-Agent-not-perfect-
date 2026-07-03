@@ -1,0 +1,4 @@
+requests
+gradio
+PyPDF2
+Pillow
